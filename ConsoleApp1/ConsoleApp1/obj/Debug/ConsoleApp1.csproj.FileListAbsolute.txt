@@ -1,0 +1,8 @@
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Bai_Tap_Tu_Duy_28Tech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
